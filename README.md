@@ -23,6 +23,5 @@ Please do not alter, re-use or re-upload any of the assets unless I give you dir
 
 In order of preference:
 - Discord: calamitish
-- [E-mail](mailto:calamitish@calamitish.atspace.cc)
 - Twitter: [@calamitishy] (https://twitter.com/calamitishy)
 - Bsky: [calamitish] (https://bsky.app/profile/calamitish.atspace.cc)
